@@ -1,5 +1,5 @@
 # About
-Portfolio for a textile artist.
+Portfolio site for a textile artist.
 
 ---
 
