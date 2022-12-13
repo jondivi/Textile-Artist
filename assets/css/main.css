@@ -257,6 +257,52 @@ input, select, textarea {
 			}
 
 		}
+/* Left Container */
+	.alignLeft{
+		display: flex;
+		align-content: flex-start;
+
+	}
+
+		@media screen and (min-width: 961px) and (max-width: 1880px) {
+
+			.alignLeft {
+				width: 1200px;
+			}
+
+		}
+
+		@media screen and (min-width: 961px) and (max-width: 1620px) {
+
+			.alignLeft {
+				width: 960px;
+			}
+
+		}
+
+		@media screen and (min-width: 961px) and (max-width: 1320px) {
+
+			.alignLeft {
+				width: 100%;
+			}
+
+		}
+
+		@media screen and (max-width: 960px) {
+
+			.alignLeft {
+				width: 100%;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.alignLeft {
+				width: 100%;
+			} */
+			
+	}
 
 /* Row */
 
@@ -2271,7 +2317,7 @@ input, select, textarea {
 		/* Unordered */
 
 		.cv{
-			list-style-type: none;
+			list-style: none;
 		}
 
 /* Wide */
